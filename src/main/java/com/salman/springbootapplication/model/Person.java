@@ -14,5 +14,4 @@ public class Person {
     private final UUID id;
     @JsonProperty("id")
     private final String name;
-    
 }
